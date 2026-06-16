@@ -1,0 +1,43 @@
+
+body {
+ background-color: #ffffff;
+  text-align: center; 
+}
+#navb{
+  padding: 5px;
+  background-color: #ccc;
+
+}
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-bottom: 25px;
+  padding: 40px;
+}
+.box{
+    padding: 25px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    box-shadow: 50px;
+}
+ .name input {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+.name button {
+  padding: 10px 20px;
+  border: 2px;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+
+} 
+
+
+
